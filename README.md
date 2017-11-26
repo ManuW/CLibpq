@@ -1,3 +1,3 @@
 # PostgreSQL libpq system module
 
-See swift package manager documentation to get more informations about system modules.
+Add *Clibpq* as a [dependency](https://github.com/apple/swift-package-manager/blob/master/Documentation/PackageDescriptionV4.md#dependencies) in your Package.swift file.
